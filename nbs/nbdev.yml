@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://jamesl385.github.io/nbdev_test"
+  description: "Testing the nbdev environment"
+  repo-branch: main
+  repo-url: "https://github.com/jamesl385/nbdev_test"
